@@ -1,0 +1,16 @@
+nba_api
+matplotlib
+pandas
+numpy
+statsmodels ==0.13.2
+seaborn
+scipy
+linearmodels ==4.23
+ipython
+scikit-learn
+notebook
+jupyter-nbextensions-configurator
+stargazer
+regex
+pydotplus
+ipywidgets
